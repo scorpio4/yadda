@@ -1,6 +1,6 @@
 {
   "name": "diet-yadda",
-  "version": "0.22.1",
+  "version": "0.22.2",
   "description": "A true BDD framework for JavaScript - slimmed down",
   "main": "./lib/index.js",
   "devDependencies": {
